@@ -6,15 +6,15 @@ An unofficial companion & race-prep app for **Touge Shakai** — leaderboards, m
 
 ## Download
 
-**Latest version: `v0.9.19`**
+**Latest version: `v0.9.20`**
 
 Grab the installer from the [**latest release**](https://github.com/GlitchBase/TSRaceroom-Releases/releases/latest):
 
-- `TS-Raceroom-Setup-0.9.19.exe` — Windows installer
+- `TS-Raceroom-Setup-0.9.20.exe` — Windows installer
 
 ## Install
 
-1. Download `TS-Raceroom-Setup-0.9.19.exe` from the latest release.
+1. Download `TS-Raceroom-Setup-0.9.20.exe` from the latest release.
 2. Run the installer and follow the prompts (you can choose the install directory).
 3. Launch **TS Raceroom** from the Start menu or desktop shortcut.
 
