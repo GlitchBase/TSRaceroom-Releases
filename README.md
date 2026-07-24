@@ -6,11 +6,11 @@ An unofficial companion & race-prep app for **Touge Shakai** — leaderboards, m
 
 ## Download
 
-**Latest version: `v0.9.42`**
+**Latest version: `v0.9.43`**
 
 Grab the installer from the [**latest release**](https://github.com/GlitchBase/TSRaceroom-Releases/releases/latest):
 
-- `TS-Raceroom-Setup-0.9.42.exe` — Windows installer
+- `TS-Raceroom-Setup-0.9.43.exe` — Windows installer
 
 ### Bridge mod (MelonLoader)
 
@@ -20,7 +20,7 @@ Manual drop-in: from the [`mod-latest`](https://github.com/GlitchBase/TSRaceroom
 
 ## Install
 
-1. Download `TS-Raceroom-Setup-0.9.42.exe` from the latest release.
+1. Download `TS-Raceroom-Setup-0.9.43.exe` from the latest release.
 2. Run the installer and follow the prompts (you can choose the install directory).
 3. Launch **TS Raceroom** from the Start menu or desktop shortcut.
 
