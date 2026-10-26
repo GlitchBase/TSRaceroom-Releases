@@ -6,11 +6,11 @@ An unofficial companion & race-prep app for **Touge Shakai** — leaderboards, m
 
 ## Download
 
-**Latest version: `v0.9.59`**
+**Latest version: `v0.9.60`**
 
-Grab the installer from the [**latest release**](https://github.com/GlitchBase/TSRaceroom-Releases/releases/latest):
+Grab the installer from the [**latest release**](https://github.com/GlitchBase/TSRaceroom-Releases/releases/tag/app-latest):
 
-- `TS-Raceroom-Setup-0.9.59.exe` — Windows installer
+- `TS-Raceroom-Setup-0.9.60.exe` — Windows installer
 
 ### Bridge mod (MelonLoader)
 
@@ -18,9 +18,17 @@ The in-game HUD mod can update between app versions. Prefer **Game Link → Inst
 
 Manual drop-in: from the [`mod-latest`](https://github.com/GlitchBase/TSRaceroom-Releases/releases/tag/mod-latest) release, copy `TSRaceroomBridge.dll` into `<Touge Shakai>/Mods/`.
 
+### Stewards overlay (MelonLoader)
+
+Race-control flag overlay, separate from the battle HUD. From the [`stewards-latest`](https://github.com/GlitchBase/TSRaceroom-Releases/releases/tag/stewards-latest) release, copy `TSRaceroomStewards.dll` into `<Touge Shakai>/Mods/` next to the bridge. Join with the code from the Stewards page (F10 in-game).
+
+### Steward Cam Watch (MelonLoader)
+
+Spectator camera snap for stewards, separate from Game Link and the flags overlay. From the [`stewardcam-latest`](https://github.com/GlitchBase/TSRaceroom-Releases/releases/tag/stewardcam-latest) release, copy `TSRaceroomStewardCam.dll` into `<Touge Shakai>/Mods/`. Spectate, open TAB or the lobby list, click **Watch**.
+
 ## Install
 
-1. Download `TS-Raceroom-Setup-0.9.59.exe` from the latest release.
+1. Download `TS-Raceroom-Setup-0.9.60.exe` from the latest release.
 2. Run the installer and follow the prompts (you can choose the install directory).
 3. Launch **TS Raceroom** from the Start menu or desktop shortcut.
 
