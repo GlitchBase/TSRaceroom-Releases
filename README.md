@@ -6,11 +6,11 @@ An unofficial companion & race-prep app for **Touge Shakai** — leaderboards, m
 
 ## Download
 
-**Latest version: `v1.0.0`**
+**Latest version: `v1.1.0`**
 
 Grab the installer from the [**latest release**](https://github.com/GlitchBase/TSRaceroom-Releases/releases/tag/app-latest):
 
-- `TS-Raceroom-Setup-1.0.0.exe` — Windows installer
+- `TS-Raceroom-Setup-1.1.0.exe` — Windows installer
 
 ### Bridge mod (MelonLoader)
 
@@ -28,7 +28,7 @@ Spectator camera snap for stewards, separate from Game Link and the flags overla
 
 ## Install
 
-1. Download `TS-Raceroom-Setup-1.0.0.exe` from the latest release.
+1. Download `TS-Raceroom-Setup-1.1.0.exe` from the latest release.
 2. Run the installer and follow the prompts (you can choose the install directory).
 3. Launch **TS Raceroom** from the Start menu or desktop shortcut.
 
